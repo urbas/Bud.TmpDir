@@ -15,4 +15,7 @@
     <copyright>Copyright 2016</copyright>
     <tags>Bud.TmpDir temporary directory testing utility</tags>
   </metadata>
+  <files>
+    <file src="bin/Debug/Bud.TmpDir.dll" target="lib/net46" />
+  </files>
 </package>
