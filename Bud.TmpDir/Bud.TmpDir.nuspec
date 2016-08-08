@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Bud.TmpDir</id>
+    <version>1.0.0-rc1</version>
+    <title>Bud.TmpDir</title>
+    <authors>Matej Urbas</authors>
+    <owners>Matej Urbas</owners>
+    <licenseUrl>https://github.com/urbas/Bud.TmpDir/blob/master/LICENCE.md</licenseUrl>
+    <projectUrl>https://github.com/urbas/Bud.TmpDir</projectUrl>
+    <iconUrl>https://ci.appveyor.com/api/projects/status/au3barw578jkvj28/branch/master</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package provides the Bud.TmpDir class. This class is disposable. It creates a temporary directory and deletes it on disposal.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Bud.TmpDir temporary directory testing utility</tags>
+  </metadata>
+</package>
