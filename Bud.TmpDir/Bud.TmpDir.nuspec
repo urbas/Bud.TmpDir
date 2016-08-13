@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Bud.TmpDir</id>
-    <version>1.0.0-rc1</version>
+    <version>1.0.0</version>
     <title>Bud.TmpDir</title>
     <authors>Matej Urbas</authors>
     <owners>Matej Urbas</owners>
@@ -17,5 +17,6 @@
   </metadata>
   <files>
     <file src="bin/Debug/Bud.TmpDir.dll" target="lib/net46" />
+    <file src="bin/Debug/Bud.TmpDir.xml" target="lib/net46" />
   </files>
 </package>
